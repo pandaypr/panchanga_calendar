@@ -91,7 +91,7 @@ def main():
     if os.path.isdir(DATA_OUT_PATH):
         sh.delete_folder(DATA_OUT_PATH)
     os.mkdir(DATA_OUT_PATH)
-    console.log("[bold]Getting data from html files...[/]")
+    console.log("[blue bold]Getting data from html files...[/]")
     month_list: dict[str, dict[int, dict]] = {}
     # Contains list of all panchanga info for each month
     for root, dirs, files in os.walk("raw_html"):
