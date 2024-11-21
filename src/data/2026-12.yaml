@@ -1,0 +1,651 @@
+1:
+  amanta_month: Kartika
+  dRika_Rtu: Sharad (Autumn)
+  date:
+  - 1
+  - 12
+  - 2026
+  moonrise: Dec 02 12:45 AM
+  moonset: Dec 01 12:40 PM
+  nakshatra:
+  - Magha - Nov 30 09:42 AM – Dec 01 09:00 AM
+  - Purva Phalguni - Dec 01 09:00 AM – Dec 02 08:55 AM
+  purnimanta_month: Agrahayana
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 6:55 AM
+  sunset: 5:36 PM
+  tithi:
+  - Krishna Paksha Ashtami - Dec 01 12:11 AM – Dec 01 11:14 PM
+  - Krishna Paksha Navami - Dec 01 11:14 PM – Dec 02 10:52 PM
+  vedic_Rtu: Hemant (Prewinter)
+  vikram_samvat_date: 2083, Siddharthi
+2:
+  amanta_month: Kartika
+  dRika_Rtu: Sharad (Autumn)
+  date:
+  - 2
+  - 12
+  - 2026
+  moonrise: Dec 02 12:45 AM
+  moonset: Dec 02 1:13 PM
+  nakshatra:
+  - Purva Phalguni - Dec 01 09:00 AM – Dec 02 08:55 AM
+  - Uttara Phalguni - Dec 02 08:55 AM – Dec 03 09:23 AM
+  purnimanta_month: Agrahayana
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 6:56 AM
+  sunset: 5:36 PM
+  tithi:
+  - Krishna Paksha Navami - Dec 01 11:14 PM – Dec 02 10:52 PM
+  - Krishna Paksha Dashami - Dec 02 10:52 PM – Dec 03 11:03 PM
+  vedic_Rtu: Hemant (Prewinter)
+  vikram_samvat_date: 2083, Siddharthi
+3:
+  amanta_month: Kartika
+  dRika_Rtu: Sharad (Autumn)
+  date:
+  - 3
+  - 12
+  - 2026
+  moonrise: Dec 03 1:40 AM
+  moonset: Dec 03 1:46 PM
+  nakshatra:
+  - Uttara Phalguni - Dec 02 08:55 AM – Dec 03 09:23 AM
+  - Hasta - Dec 03 09:23 AM – Dec 04 10:22 AM
+  purnimanta_month: Agrahayana
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 6:56 AM
+  sunset: 5:36 PM
+  tithi:
+  - Krishna Paksha Dashami - Dec 02 10:52 PM – Dec 03 11:03 PM
+  - Krishna Paksha Ekadashi - Dec 03 11:03 PM – Dec 04 11:45 PM
+  vedic_Rtu: Hemant (Prewinter)
+  vikram_samvat_date: 2083, Siddharthi
+4:
+  amanta_month: Kartika
+  dRika_Rtu: Sharad (Autumn)
+  date:
+  - 4
+  - 12
+  - 2026
+  moonrise: Dec 04 2:35 AM
+  moonset: Dec 04 2:19 PM
+  nakshatra:
+  - Hasta - Dec 03 09:23 AM – Dec 04 10:22 AM
+  - Chitra - Dec 04 10:22 AM – Dec 05 11:48 AM
+  purnimanta_month: Agrahayana
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 6:57 AM
+  sunset: 5:36 PM
+  tithi:
+  - Krishna Paksha Ekadashi - Dec 03 11:03 PM – Dec 04 11:45 PM
+  - Krishna Paksha Dwadashi - Dec 04 11:45 PM – Dec 06 12:52 AM
+  vedic_Rtu: Hemant (Prewinter)
+  vikram_samvat_date: 2083, Siddharthi
+5:
+  amanta_month: Kartika
+  dRika_Rtu: Sharad (Autumn)
+  date:
+  - 5
+  - 12
+  - 2026
+  moonrise: Dec 05 3:29 AM
+  moonset: Dec 05 2:54 PM
+  nakshatra:
+  - Chitra - Dec 04 10:22 AM – Dec 05 11:48 AM
+  - Swati - Dec 05 11:48 AM – Dec 06 01:38 PM
+  purnimanta_month: Agrahayana
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 6:58 AM
+  sunset: 5:36 PM
+  tithi:
+  - Krishna Paksha Dwadashi - Dec 04 11:45 PM – Dec 06 12:52 AM
+  - Krishna Paksha Trayodashi - Dec 06 12:52 AM – Dec 07 02:22 AM
+  vedic_Rtu: Hemant (Prewinter)
+  vikram_samvat_date: 2083, Siddharthi
+6:
+  amanta_month: Kartika
+  dRika_Rtu: Sharad (Autumn)
+  date:
+  - 6
+  - 12
+  - 2026
+  moonrise: Dec 06 4:24 AM
+  moonset: Dec 06 3:32 PM
+  nakshatra:
+  - Swati - Dec 05 11:48 AM – Dec 06 01:38 PM
+  - Vishaka - Dec 06 01:38 PM – Dec 07 03:48 PM
+  purnimanta_month: Agrahayana
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 6:58 AM
+  sunset: 5:36 PM
+  tithi:
+  - Krishna Paksha Trayodashi - Dec 06 12:52 AM – Dec 07 02:22 AM
+  - Krishna Paksha Chaturdashi - Dec 07 02:22 AM – Dec 08 04:12 AM
+  vedic_Rtu: Hemant (Prewinter)
+  vikram_samvat_date: 2083, Siddharthi
+7:
+  amanta_month: Kartika
+  dRika_Rtu: Sharad (Autumn)
+  date:
+  - 7
+  - 12
+  - 2026
+  moonrise: Dec 07 5:20 AM
+  moonset: Dec 07 4:13 PM
+  nakshatra:
+  - Vishaka - Dec 06 01:38 PM – Dec 07 03:48 PM
+  - Anuradha - Dec 07 03:48 PM – Dec 08 06:16 PM
+  purnimanta_month: Agrahayana
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 6:59 AM
+  sunset: 5:36 PM
+  tithi:
+  - Krishna Paksha Chaturdashi - Dec 07 02:22 AM – Dec 08 04:12 AM
+  - Krishna Paksha Amavasya - Dec 08 04:12 AM – Dec 09 06:21 AM
+  vedic_Rtu: Hemant (Prewinter)
+  vikram_samvat_date: 2083, Siddharthi
+8:
+  amanta_month: Kartika
+  dRika_Rtu: Sharad (Autumn)
+  date:
+  - 8
+  - 12
+  - 2026
+  moonrise: Dec 08 6:15 AM
+  moonset: Dec 08 4:59 PM
+  nakshatra:
+  - Anuradha - Dec 07 03:48 PM – Dec 08 06:16 PM
+  - Jyeshta - Dec 08 06:16 PM – Dec 09 09:00 PM
+  purnimanta_month: Agrahayana
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 7:00 AM
+  sunset: 5:37 PM
+  tithi:
+  - Krishna Paksha Amavasya - Dec 08 04:12 AM – Dec 09 06:21 AM
+  - Sukla Paksha Pratipada - Dec 09 06:21 AM – Dec 10 08:46 AM
+  vedic_Rtu: Hemant (Prewinter)
+  vikram_samvat_date: 2083, Siddharthi
+9:
+  amanta_month: Agrahayana
+  dRika_Rtu: Hemant (Prewinter)
+  date:
+  - 9
+  - 12
+  - 2026
+  moonrise: Dec 09 7:10 AM
+  moonset: Dec 09 5:48 PM
+  nakshatra:
+  - Jyeshta - Dec 08 06:16 PM – Dec 09 09:00 PM
+  - Moola - Dec 09 09:00 PM – Dec 10 11:58 PM
+  purnimanta_month: Agrahayana
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 7:00 AM
+  sunset: 5:37 PM
+  tithi:
+  - Sukla Paksha Pratipada [ Tithi Vridhi ]- Dec 09 06:21 AM – Dec 10 08:46 AM
+  vedic_Rtu: Hemant (Prewinter)
+  vikram_samvat_date: 2083, Siddharthi
+10:
+  amanta_month: Agrahayana
+  dRika_Rtu: Hemant (Prewinter)
+  date:
+  - 10
+  - 12
+  - 2026
+  moonrise: Dec 10 8:01 AM
+  moonset: Dec 10 6:41 PM
+  nakshatra:
+  - Moola - Dec 09 09:00 PM – Dec 10 11:58 PM
+  - Purva Ashadha - Dec 10 11:58 PM – Dec 12 03:04 AM
+  purnimanta_month: Agrahayana
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 7:01 AM
+  sunset: 5:37 PM
+  tithi:
+  - Sukla Paksha Pratipada - Dec 09 06:21 AM – Dec 10 08:46 AM
+  - Sukla Paksha Dwitiya - Dec 10 08:46 AM – Dec 11 11:23 AM
+  vedic_Rtu: Hemant (Prewinter)
+  vikram_samvat_date: 2083, Siddharthi
+11:
+  amanta_month: Agrahayana
+  dRika_Rtu: Hemant (Prewinter)
+  date:
+  - 11
+  - 12
+  - 2026
+  moonrise: Dec 11 8:49 AM
+  moonset: Dec 11 7:35 PM
+  nakshatra:
+  - Purva Ashadha - Dec 10 11:58 PM – Dec 12 03:04 AM
+  - Uttara Ashadha - Dec 12 03:04 AM – Dec 13 06:12 AM
+  purnimanta_month: Agrahayana
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 7:02 AM
+  sunset: 5:37 PM
+  tithi:
+  - Sukla Paksha Dwitiya - Dec 10 08:46 AM – Dec 11 11:23 AM
+  - Sukla Paksha Tritiya - Dec 11 11:23 AM – Dec 12 02:06 PM
+  vedic_Rtu: Hemant (Prewinter)
+  vikram_samvat_date: 2083, Siddharthi
+12:
+  amanta_month: Agrahayana
+  dRika_Rtu: Hemant (Prewinter)
+  date:
+  - 12
+  - 12
+  - 2026
+  moonrise: Dec 12 9:32 AM
+  moonset: Dec 12 8:29 PM
+  nakshatra:
+  - Uttara Ashadha - Dec 12 03:04 AM – Dec 13 06:12 AM
+  - Shravana - Dec 13 06:12 AM – Dec 14 09:12 AM
+  purnimanta_month: Agrahayana
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 7:02 AM
+  sunset: 5:38 PM
+  tithi:
+  - Sukla Paksha Tritiya - Dec 11 11:23 AM – Dec 12 02:06 PM
+  - Sukla Paksha Chaturthi - Dec 12 02:06 PM – Dec 13 04:47 PM
+  vedic_Rtu: Hemant (Prewinter)
+  vikram_samvat_date: 2083, Siddharthi
+13:
+  amanta_month: Agrahayana
+  dRika_Rtu: Hemant (Prewinter)
+  date:
+  - 13
+  - 12
+  - 2026
+  moonrise: Dec 13 10:11 AM
+  moonset: Dec 13 9:22 PM
+  nakshatra:
+  - Shravana - Dec 13 06:12 AM – Dec 14 09:12 AM
+  purnimanta_month: Agrahayana
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 7:03 AM
+  sunset: 5:38 PM
+  tithi:
+  - Sukla Paksha Chaturthi - Dec 12 02:06 PM – Dec 13 04:47 PM
+  - Sukla Paksha Panchami - Dec 13 04:47 PM – Dec 14 07:16 PM
+  vedic_Rtu: Hemant (Prewinter)
+  vikram_samvat_date: 2083, Siddharthi
+14:
+  amanta_month: Agrahayana
+  dRika_Rtu: Hemant (Prewinter)
+  date:
+  - 14
+  - 12
+  - 2026
+  moonrise: Dec 14 10:46 AM
+  moonset: Dec 14 10:15 PM
+  nakshatra:
+  - Shravana - Dec 13 06:12 AM – Dec 14 09:12 AM
+  - Dhanishta - Dec 14 09:12 AM – Dec 15 11:52 AM
+  purnimanta_month: Agrahayana
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 7:03 AM
+  sunset: 5:38 PM
+  tithi:
+  - Sukla Paksha Panchami - Dec 13 04:47 PM – Dec 14 07:16 PM
+  - Sukla Paksha Shashthi - Dec 14 07:16 PM – Dec 15 09:19 PM
+  vedic_Rtu: Hemant (Prewinter)
+  vikram_samvat_date: 2083, Siddharthi
+15:
+  amanta_month: Agrahayana
+  dRika_Rtu: Hemant (Prewinter)
+  date:
+  - 15
+  - 12
+  - 2026
+  moonrise: Dec 15 11:19 AM
+  moonset: Dec 15 11:06 PM
+  nakshatra:
+  - Dhanishta - Dec 14 09:12 AM – Dec 15 11:52 AM
+  - Shatabhisha - Dec 15 11:52 AM – Dec 16 02:02 PM
+  purnimanta_month: Agrahayana
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 7:04 AM
+  sunset: 5:39 PM
+  tithi:
+  - Sukla Paksha Shashthi - Dec 14 07:16 PM – Dec 15 09:19 PM
+  - Sukla Paksha Saptami - Dec 15 09:19 PM – Dec 16 10:46 PM
+  vedic_Rtu: Hemant (Prewinter)
+  vikram_samvat_date: 2083, Siddharthi
+16:
+  amanta_month: Agrahayana
+  dRika_Rtu: Hemant (Prewinter)
+  date:
+  - 16
+  - 12
+  - 2026
+  moonrise: Dec 16 11:50 AM
+  moonset: Dec 16 11:58 PM
+  nakshatra:
+  - Shatabhisha - Dec 15 11:52 AM – Dec 16 02:02 PM
+  - Purva Bhadrapada - Dec 16 02:02 PM – Dec 17 03:30 PM
+  purnimanta_month: Agrahayana
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 7:05 AM
+  sunset: 5:39 PM
+  tithi:
+  - Sukla Paksha Saptami - Dec 15 09:19 PM – Dec 16 10:46 PM
+  - Sukla Paksha Ashtami - Dec 16 10:46 PM – Dec 17 11:26 PM
+  vedic_Rtu: Hemant (Prewinter)
+  vikram_samvat_date: 2083, Siddharthi
+17:
+  amanta_month: Agrahayana
+  dRika_Rtu: Hemant (Prewinter)
+  date:
+  - 17
+  - 12
+  - 2026
+  moonrise: Dec 17 12:22 PM
+  moonset: Dec 18 12:51 AM
+  nakshatra:
+  - Purva Bhadrapada - Dec 16 02:02 PM – Dec 17 03:30 PM
+  - Uttara Bhadrapada - Dec 17 03:30 PM – Dec 18 04:10 PM
+  purnimanta_month: Agrahayana
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 7:05 AM
+  sunset: 5:40 PM
+  tithi:
+  - Sukla Paksha Ashtami - Dec 16 10:46 PM – Dec 17 11:26 PM
+  - Sukla Paksha Navami - Dec 17 11:26 PM – Dec 18 11:14 PM
+  vedic_Rtu: Hemant (Prewinter)
+  vikram_samvat_date: 2083, Siddharthi
+18:
+  amanta_month: Agrahayana
+  dRika_Rtu: Hemant (Prewinter)
+  date:
+  - 18
+  - 12
+  - 2026
+  moonrise: Dec 18 12:54 PM
+  moonset: Dec 19 1:47 AM
+  nakshatra:
+  - Uttara Bhadrapada - Dec 17 03:30 PM – Dec 18 04:10 PM
+  - Revati - Dec 18 04:10 PM – Dec 19 03:57 PM
+  purnimanta_month: Agrahayana
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 7:06 AM
+  sunset: 5:40 PM
+  tithi:
+  - Sukla Paksha Navami - Dec 17 11:26 PM – Dec 18 11:14 PM
+  - Sukla Paksha Dashami - Dec 18 11:14 PM – Dec 19 10:09 PM
+  vedic_Rtu: Hemant (Prewinter)
+  vikram_samvat_date: 2083, Siddharthi
+19:
+  amanta_month: Agrahayana
+  dRika_Rtu: Hemant (Prewinter)
+  date:
+  - 19
+  - 12
+  - 2026
+  moonrise: Dec 19 1:30 PM
+  moonset: Dec 20 2:47 AM
+  nakshatra:
+  - Revati - Dec 18 04:10 PM – Dec 19 03:57 PM
+  - Ashwini - Dec 19 03:57 PM – Dec 20 02:55 PM
+  purnimanta_month: Agrahayana
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 7:06 AM
+  sunset: 5:40 PM
+  tithi:
+  - Sukla Paksha Dashami - Dec 18 11:14 PM – Dec 19 10:09 PM
+  - Sukla Paksha Ekadashi - Dec 19 10:09 PM – Dec 20 08:14 PM
+  vedic_Rtu: Hemant (Prewinter)
+  vikram_samvat_date: 2083, Siddharthi
+20:
+  amanta_month: Agrahayana
+  dRika_Rtu: Hemant (Prewinter)
+  date:
+  - 20
+  - 12
+  - 2026
+  moonrise: Dec 20 2:10 PM
+  moonset: Dec 21 3:51 AM
+  nakshatra:
+  - Ashwini - Dec 19 03:57 PM – Dec 20 02:55 PM
+  - Bharani - Dec 20 02:55 PM – Dec 21 01:08 PM
+  purnimanta_month: Agrahayana
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 7:07 AM
+  sunset: 5:41 PM
+  tithi:
+  - Sukla Paksha Ekadashi - Dec 19 10:09 PM – Dec 20 08:14 PM
+  - Sukla Paksha Dwadashi - Dec 20 08:14 PM – Dec 21 05:36 PM
+  vedic_Rtu: Hemant (Prewinter)
+  vikram_samvat_date: 2083, Siddharthi
+21:
+  amanta_month: Agrahayana
+  dRika_Rtu: Hemant (Prewinter)
+  date:
+  - 21
+  - 12
+  - 2026
+  moonrise: Dec 21 2:57 PM
+  moonset: Dec 22 5:00 AM
+  nakshatra:
+  - Bharani - Dec 20 02:55 PM – Dec 21 01:08 PM
+  - Krithika - Dec 21 01:08 PM – Dec 22 10:45 AM
+  purnimanta_month: Agrahayana
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 7:07 AM
+  sunset: 5:41 PM
+  tithi:
+  - Sukla Paksha Dwadashi - Dec 20 08:14 PM – Dec 21 05:36 PM
+  - Sukla Paksha Trayodashi - Dec 21 05:36 PM – Dec 22 02:23 PM
+  vedic_Rtu: Hemant (Prewinter)
+  vikram_samvat_date: 2083, Siddharthi
+22:
+  amanta_month: Agrahayana
+  dRika_Rtu: Hemant (Prewinter)
+  date:
+  - 22
+  - 12
+  - 2026
+  moonrise: Dec 22 3:53 PM
+  moonset: Dec 23 6:10 AM
+  nakshatra:
+  - Krithika - Dec 21 01:08 PM – Dec 22 10:45 AM
+  - Rohini - Dec 22 10:45 AM – Dec 23 07:56 AM
+  purnimanta_month: Agrahayana
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 7:08 AM
+  sunset: 5:42 PM
+  tithi:
+  - Sukla Paksha Trayodashi - Dec 21 05:36 PM – Dec 22 02:23 PM
+  - Sukla Paksha Chaturdashi - Dec 22 02:24 PM – Dec 23 10:47 AM
+  vedic_Rtu: Shishir (Winter)
+  vikram_samvat_date: 2083, Siddharthi
+23:
+  amanta_month: Agrahayana
+  dRika_Rtu: Hemant (Prewinter)
+  date:
+  - 23
+  - 12
+  - 2026
+  moonrise: Dec 23 4:57 PM
+  moonset: Dec 24 7:17 AM
+  nakshatra:
+  - Rohini - Dec 22 10:45 AM – Dec 23 07:56 AM
+  - Mrigashirsha - Dec 23 07:56 AM – Dec 24 04:53 AM
+  - Ardra - Dec 24 04:53 AM – Dec 25 01:47 AM
+  purnimanta_month: Agrahayana
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 7:08 AM
+  sunset: 5:42 PM
+  tithi:
+  - Sukla Paksha Chaturdashi - Dec 22 02:24 PM – Dec 23 10:47 AM
+  - Sukla Paksha Purnima [ Tithi Kshaya ]- Dec 23 10:47 AM – Dec 24 06:58 AM
+  - Krishna Paksha Pratipada - Dec 24 06:58 AM – Dec 25 03:07 AM
+  vedic_Rtu: Shishir (Winter)
+  vikram_samvat_date: 2083, Siddharthi
+24:
+  amanta_month: Agrahayana
+  dRika_Rtu: Hemant (Prewinter)
+  date:
+  - 24
+  - 12
+  - 2026
+  moonrise: Dec 24 6:07 PM
+  moonset: Dec 25 8:19 AM
+  nakshatra:
+  - Ardra - Dec 24 04:53 AM – Dec 25 01:47 AM
+  - Punarvasu - Dec 25 01:47 AM – Dec 25 10:50 PM
+  purnimanta_month: Pausa
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 7:09 AM
+  sunset: 5:43 PM
+  tithi:
+  - Krishna Paksha Pratipada - Dec 24 06:58 AM – Dec 25 03:07 AM
+  - Krishna Paksha Dwitiya - Dec 25 03:07 AM – Dec 25 11:26 PM
+  vedic_Rtu: Shishir (Winter)
+  vikram_samvat_date: 2083, Siddharthi
+25:
+  amanta_month: Agrahayana
+  dRika_Rtu: Hemant (Prewinter)
+  date:
+  - 25
+  - 12
+  - 2026
+  moonrise: Dec 25 7:19 PM
+  moonset: Dec 26 9:12 AM
+  nakshatra:
+  - Punarvasu - Dec 25 01:47 AM – Dec 25 10:50 PM
+  - Pushya - Dec 25 10:50 PM – Dec 26 08:12 PM
+  purnimanta_month: Pausa
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 7:09 AM
+  sunset: 5:43 PM
+  tithi:
+  - Krishna Paksha Dwitiya - Dec 25 03:07 AM – Dec 25 11:26 PM
+  - Krishna Paksha Tritiya - Dec 25 11:26 PM – Dec 26 08:05 PM
+  vedic_Rtu: Shishir (Winter)
+  vikram_samvat_date: 2083, Siddharthi
+26:
+  amanta_month: Agrahayana
+  dRika_Rtu: Hemant (Prewinter)
+  date:
+  - 26
+  - 12
+  - 2026
+  moonrise: Dec 26 8:29 PM
+  moonset: Dec 27 9:57 AM
+  nakshatra:
+  - Pushya - Dec 25 10:50 PM – Dec 26 08:12 PM
+  - Ashlesha - Dec 26 08:12 PM – Dec 27 06:04 PM
+  purnimanta_month: Pausa
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 7:10 AM
+  sunset: 5:44 PM
+  tithi:
+  - Krishna Paksha Tritiya - Dec 25 11:26 PM – Dec 26 08:05 PM
+  - Krishna Paksha Chaturthi - Dec 26 08:05 PM – Dec 27 05:13 PM
+  vedic_Rtu: Shishir (Winter)
+  vikram_samvat_date: 2083, Siddharthi
+27:
+  amanta_month: Agrahayana
+  dRika_Rtu: Hemant (Prewinter)
+  date:
+  - 27
+  - 12
+  - 2026
+  moonrise: Dec 27 9:35 PM
+  moonset: Dec 28 10:37 AM
+  nakshatra:
+  - Ashlesha - Dec 26 08:12 PM – Dec 27 06:04 PM
+  - Magha - Dec 27 06:04 PM – Dec 28 04:33 PM
+  purnimanta_month: Pausa
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 7:10 AM
+  sunset: 5:45 PM
+  tithi:
+  - Krishna Paksha Chaturthi - Dec 26 08:05 PM – Dec 27 05:13 PM
+  - Krishna Paksha Panchami - Dec 27 05:13 PM – Dec 28 02:58 PM
+  vedic_Rtu: Shishir (Winter)
+  vikram_samvat_date: 2083, Siddharthi
+28:
+  amanta_month: Agrahayana
+  dRika_Rtu: Hemant (Prewinter)
+  date:
+  - 28
+  - 12
+  - 2026
+  moonrise: Dec 28 10:36 PM
+  moonset: Dec 29 11:13 AM
+  nakshatra:
+  - Magha - Dec 27 06:04 PM – Dec 28 04:33 PM
+  - Purva Phalguni - Dec 28 04:33 PM – Dec 29 03:43 PM
+  purnimanta_month: Pausa
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 7:10 AM
+  sunset: 5:45 PM
+  tithi:
+  - Krishna Paksha Panchami - Dec 27 05:13 PM – Dec 28 02:58 PM
+  - Krishna Paksha Shashthi - Dec 28 02:58 PM – Dec 29 01:25 PM
+  vedic_Rtu: Shishir (Winter)
+  vikram_samvat_date: 2083, Siddharthi
+29:
+  amanta_month: Agrahayana
+  dRika_Rtu: Hemant (Prewinter)
+  date:
+  - 29
+  - 12
+  - 2026
+  moonrise: Dec 29 11:34 PM
+  moonset: Dec 30 11:47 AM
+  nakshatra:
+  - Purva Phalguni - Dec 28 04:33 PM – Dec 29 03:43 PM
+  - Uttara Phalguni - Dec 29 03:43 PM – Dec 30 03:36 PM
+  purnimanta_month: Pausa
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 7:11 AM
+  sunset: 5:46 PM
+  tithi:
+  - Krishna Paksha Shashthi - Dec 28 02:58 PM – Dec 29 01:25 PM
+  - Krishna Paksha Saptami - Dec 29 01:25 PM – Dec 30 12:36 PM
+  vedic_Rtu: Shishir (Winter)
+  vikram_samvat_date: 2083, Siddharthi
+30:
+  amanta_month: Agrahayana
+  dRika_Rtu: Hemant (Prewinter)
+  date:
+  - 30
+  - 12
+  - 2026
+  moonrise: Dec 31 12:29 AM
+  moonset: Dec 31 12:20 PM
+  nakshatra:
+  - Uttara Phalguni - Dec 29 03:43 PM – Dec 30 03:36 PM
+  - Hasta - Dec 30 03:36 PM – Dec 31 04:13 PM
+  purnimanta_month: Pausa
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 7:11 AM
+  sunset: 5:46 PM
+  tithi:
+  - Krishna Paksha Saptami - Dec 29 01:25 PM – Dec 30 12:36 PM
+  - Krishna Paksha Ashtami - Dec 30 12:36 PM – Dec 31 12:32 PM
+  vedic_Rtu: Shishir (Winter)
+  vikram_samvat_date: 2083, Siddharthi
+31:
+  amanta_month: Agrahayana
+  dRika_Rtu: Hemant (Prewinter)
+  date:
+  - 31
+  - 12
+  - 2026
+  moonrise: Dec 31 12:29 AM
+  moonset: Dec 31 12:20 PM
+  nakshatra:
+  - Hasta - Dec 30 03:36 PM – Dec 31 04:13 PM
+  - Chitra - Dec 31 04:13 PM – Jan 01 05:29 PM
+  purnimanta_month: Pausa
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 7:12 AM
+  sunset: 5:47 PM
+  tithi:
+  - Krishna Paksha Ashtami - Dec 30 12:36 PM – Dec 31 12:32 PM
+  - Krishna Paksha Navami - Dec 31 12:32 PM – Jan 01 01:10 PM
+  vedic_Rtu: Shishir (Winter)
+  vikram_samvat_date: 2083, Siddharthi

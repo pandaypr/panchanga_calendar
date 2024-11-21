@@ -1,0 +1,652 @@
+1:
+  amanta_month: Ashadha
+  dRika_Rtu: Grishma (Summer)
+  date:
+  - 1
+  - 8
+  - 2024
+  moonrise: Aug 01 2:38 AM
+  moonset: Aug 01 4:58 PM
+  nakshatra:
+  - Mrigashirsha - Jul 31 10:12 AM – Aug 01 10:24 AM
+  - Ardra - Aug 01 10:24 AM – Aug 02 10:59 AM
+  purnimanta_month: Sravana
+  shakaka_samvat_date: 1946, Krodhi
+  sunrise: 6:01 AM
+  sunset: 7:04 PM
+  tithi:
+  - Krishna Paksha Dwadashi - Jul 31 03:55 PM – Aug 01 03:29 PM
+  - Krishna Paksha Trayodashi - Aug 01 03:29 PM – Aug 02 03:27 PM
+  vedic_Rtu: Varsha (Monsoon)
+  vikram_samvat_date: 2081, Pingala
+2:
+  amanta_month: Ashadha
+  dRika_Rtu: Grishma (Summer)
+  date:
+  - 2
+  - 8
+  - 2024
+  moonrise: Aug 02 3:36 AM
+  moonset: Aug 02 5:51 PM
+  nakshatra:
+  - Ardra - Aug 01 10:24 AM – Aug 02 10:59 AM
+  - Punarvasu - Aug 02 10:59 AM – Aug 03 11:59 AM
+  purnimanta_month: Sravana
+  shakaka_samvat_date: 1946, Krodhi
+  sunrise: 6:02 AM
+  sunset: 7:04 PM
+  tithi:
+  - Krishna Paksha Trayodashi - Aug 01 03:29 PM – Aug 02 03:27 PM
+  - Krishna Paksha Chaturdashi - Aug 02 03:27 PM – Aug 03 03:50 PM
+  vedic_Rtu: Varsha (Monsoon)
+  vikram_samvat_date: 2081, Pingala
+3:
+  amanta_month: Ashadha
+  dRika_Rtu: Grishma (Summer)
+  date:
+  - 3
+  - 8
+  - 2024
+  moonrise: Aug 03 4:36 AM
+  moonset: Aug 03 6:38 PM
+  nakshatra:
+  - Punarvasu - Aug 02 10:59 AM – Aug 03 11:59 AM
+  - Pushya - Aug 03 11:59 AM – Aug 04 01:26 PM
+  purnimanta_month: Sravana
+  shakaka_samvat_date: 1946, Krodhi
+  sunrise: 6:02 AM
+  sunset: 7:03 PM
+  tithi:
+  - Krishna Paksha Chaturdashi - Aug 02 03:27 PM – Aug 03 03:50 PM
+  - Krishna Paksha Amavasya - Aug 03 03:50 PM – Aug 04 04:42 PM
+  vedic_Rtu: Varsha (Monsoon)
+  vikram_samvat_date: 2081, Pingala
+4:
+  amanta_month: Ashadha
+  dRika_Rtu: Grishma (Summer)
+  date:
+  - 4
+  - 8
+  - 2024
+  moonrise: Aug 04 5:34 AM
+  moonset: Aug 04 7:19 PM
+  nakshatra:
+  - Pushya - Aug 03 11:59 AM – Aug 04 01:26 PM
+  - Ashlesha - Aug 04 01:26 PM – Aug 05 03:21 PM
+  purnimanta_month: Sravana
+  shakaka_samvat_date: 1946, Krodhi
+  sunrise: 6:02 AM
+  sunset: 7:03 PM
+  tithi:
+  - Krishna Paksha Amavasya - Aug 03 03:50 PM – Aug 04 04:42 PM
+  - Sukla Paksha Pratipada - Aug 04 04:42 PM – Aug 05 06:03 PM
+  vedic_Rtu: Varsha (Monsoon)
+  vikram_samvat_date: 2081, Pingala
+5:
+  amanta_month: Sravana
+  dRika_Rtu: Varsha (Monsoon)
+  date:
+  - 5
+  - 8
+  - 2024
+  moonrise: Aug 05 6:31 AM
+  moonset: Aug 05 7:55 PM
+  nakshatra:
+  - Ashlesha - Aug 04 01:26 PM – Aug 05 03:21 PM
+  - Magha - Aug 05 03:21 PM – Aug 06 05:44 PM
+  purnimanta_month: Sravana
+  shakaka_samvat_date: 1946, Krodhi
+  sunrise: 6:03 AM
+  sunset: 7:02 PM
+  tithi:
+  - Sukla Paksha Pratipada - Aug 04 04:42 PM – Aug 05 06:03 PM
+  - Sukla Paksha Dwitiya - Aug 05 06:03 PM – Aug 06 07:52 PM
+  vedic_Rtu: Varsha (Monsoon)
+  vikram_samvat_date: 2081, Pingala
+6:
+  amanta_month: Sravana
+  dRika_Rtu: Varsha (Monsoon)
+  date:
+  - 6
+  - 8
+  - 2024
+  moonrise: Aug 06 7:24 AM
+  moonset: Aug 06 8:28 PM
+  nakshatra:
+  - Magha - Aug 05 03:21 PM – Aug 06 05:44 PM
+  - Purva Phalguni - Aug 06 05:44 PM – Aug 07 08:30 PM
+  purnimanta_month: Sravana
+  shakaka_samvat_date: 1946, Krodhi
+  sunrise: 6:03 AM
+  sunset: 7:01 PM
+  tithi:
+  - Sukla Paksha Dwitiya - Aug 05 06:03 PM – Aug 06 07:52 PM
+  - Sukla Paksha Tritiya - Aug 06 07:52 PM – Aug 07 10:06 PM
+  vedic_Rtu: Varsha (Monsoon)
+  vikram_samvat_date: 2081, Pingala
+7:
+  amanta_month: Sravana
+  dRika_Rtu: Varsha (Monsoon)
+  date:
+  - 7
+  - 8
+  - 2024
+  moonrise: Aug 07 8:16 AM
+  moonset: Aug 07 8:58 PM
+  nakshatra:
+  - Purva Phalguni - Aug 06 05:44 PM – Aug 07 08:30 PM
+  - Uttara Phalguni - Aug 07 08:30 PM – Aug 08 11:34 PM
+  purnimanta_month: Sravana
+  shakaka_samvat_date: 1946, Krodhi
+  sunrise: 6:04 AM
+  sunset: 7:01 PM
+  tithi:
+  - Sukla Paksha Tritiya - Aug 06 07:52 PM – Aug 07 10:06 PM
+  - Sukla Paksha Chaturthi - Aug 07 10:06 PM – Aug 09 12:37 AM
+  vedic_Rtu: Varsha (Monsoon)
+  vikram_samvat_date: 2081, Pingala
+8:
+  amanta_month: Sravana
+  dRika_Rtu: Varsha (Monsoon)
+  date:
+  - 8
+  - 8
+  - 2024
+  moonrise: Aug 08 9:05 AM
+  moonset: Aug 08 9:26 PM
+  nakshatra:
+  - Uttara Phalguni - Aug 07 08:30 PM – Aug 08 11:34 PM
+  - Hasta - Aug 08 11:34 PM – Aug 10 02:44 AM
+  purnimanta_month: Sravana
+  shakaka_samvat_date: 1946, Krodhi
+  sunrise: 6:04 AM
+  sunset: 7:00 PM
+  tithi:
+  - Sukla Paksha Chaturthi - Aug 07 10:06 PM – Aug 09 12:37 AM
+  - Sukla Paksha Panchami - Aug 09 12:37 AM – Aug 10 03:14 AM
+  vedic_Rtu: Varsha (Monsoon)
+  vikram_samvat_date: 2081, Pingala
+9:
+  amanta_month: Sravana
+  dRika_Rtu: Varsha (Monsoon)
+  date:
+  - 9
+  - 8
+  - 2024
+  moonrise: Aug 09 9:54 AM
+  moonset: Aug 09 9:55 PM
+  nakshatra:
+  - Hasta - Aug 08 11:34 PM – Aug 10 02:44 AM
+  - Chitra - Aug 10 02:44 AM – Aug 11 05:49 AM
+  purnimanta_month: Sravana
+  shakaka_samvat_date: 1946, Krodhi
+  sunrise: 6:04 AM
+  sunset: 6:59 PM
+  tithi:
+  - Sukla Paksha Panchami - Aug 09 12:37 AM – Aug 10 03:14 AM
+  - Sukla Paksha Shashthi - Aug 10 03:14 AM – Aug 11 05:45 AM
+  vedic_Rtu: Varsha (Monsoon)
+  vikram_samvat_date: 2081, Pingala
+10:
+  amanta_month: Sravana
+  dRika_Rtu: Varsha (Monsoon)
+  date:
+  - 10
+  - 8
+  - 2024
+  moonrise: Aug 10 10:44 AM
+  moonset: Aug 10 10:25 PM
+  nakshatra:
+  - Chitra - Aug 10 02:44 AM – Aug 11 05:49 AM
+  - Swati - Aug 11 05:49 AM – Aug 12 08:33 AM
+  purnimanta_month: Sravana
+  shakaka_samvat_date: 1946, Krodhi
+  sunrise: 6:05 AM
+  sunset: 6:59 PM
+  tithi:
+  - Sukla Paksha Shashthi - Aug 10 03:14 AM – Aug 11 05:45 AM
+  - Sukla Paksha Saptami - Aug 11 05:45 AM – Aug 12 07:55 AM
+  vedic_Rtu: Varsha (Monsoon)
+  vikram_samvat_date: 2081, Pingala
+11:
+  amanta_month: Sravana
+  dRika_Rtu: Varsha (Monsoon)
+  date:
+  - 11
+  - 8
+  - 2024
+  moonrise: Aug 11 11:35 AM
+  moonset: Aug 11 10:57 PM
+  nakshatra:
+  - Swati - Aug 11 05:49 AM – Aug 12 08:33 AM
+  purnimanta_month: Sravana
+  shakaka_samvat_date: 1946, Krodhi
+  sunrise: 6:05 AM
+  sunset: 6:58 PM
+  tithi:
+  - Sukla Paksha Saptami [ Tithi Vridhi ]- Aug 11 05:45 AM – Aug 12 07:55 AM
+  vedic_Rtu: Varsha (Monsoon)
+  vikram_samvat_date: 2081, Pingala
+12:
+  amanta_month: Sravana
+  dRika_Rtu: Varsha (Monsoon)
+  date:
+  - 12
+  - 8
+  - 2024
+  moonrise: Aug 12 12:28 PM
+  moonset: Aug 12 11:34 PM
+  nakshatra:
+  - Swati - Aug 11 05:49 AM – Aug 12 08:33 AM
+  - Vishaka - Aug 12 08:33 AM – Aug 13 10:44 AM
+  purnimanta_month: Sravana
+  shakaka_samvat_date: 1946, Krodhi
+  sunrise: 6:06 AM
+  sunset: 6:57 PM
+  tithi:
+  - Sukla Paksha Saptami - Aug 11 05:45 AM – Aug 12 07:55 AM
+  - Sukla Paksha Ashtami - Aug 12 07:55 AM – Aug 13 09:31 AM
+  vedic_Rtu: Varsha (Monsoon)
+  vikram_samvat_date: 2081, Pingala
+13:
+  amanta_month: Sravana
+  dRika_Rtu: Varsha (Monsoon)
+  date:
+  - 13
+  - 8
+  - 2024
+  moonrise: Aug 13 1:24 PM
+  moonset: Aug 14 12:15 AM
+  nakshatra:
+  - Vishaka - Aug 12 08:33 AM – Aug 13 10:44 AM
+  - Anuradha - Aug 13 10:44 AM – Aug 14 12:12 PM
+  purnimanta_month: Sravana
+  shakaka_samvat_date: 1946, Krodhi
+  sunrise: 6:06 AM
+  sunset: 6:56 PM
+  tithi:
+  - Sukla Paksha Ashtami - Aug 12 07:55 AM – Aug 13 09:31 AM
+  - Sukla Paksha Navami - Aug 13 09:31 AM – Aug 14 10:24 AM
+  vedic_Rtu: Varsha (Monsoon)
+  vikram_samvat_date: 2081, Pingala
+14:
+  amanta_month: Sravana
+  dRika_Rtu: Varsha (Monsoon)
+  date:
+  - 14
+  - 8
+  - 2024
+  moonrise: Aug 14 2:23 PM
+  moonset: Aug 15 1:04 AM
+  nakshatra:
+  - Anuradha - Aug 13 10:44 AM – Aug 14 12:12 PM
+  - Jyeshta - Aug 14 12:12 PM – Aug 15 12:52 PM
+  purnimanta_month: Sravana
+  shakaka_samvat_date: 1946, Krodhi
+  sunrise: 6:06 AM
+  sunset: 6:56 PM
+  tithi:
+  - Sukla Paksha Navami - Aug 13 09:31 AM – Aug 14 10:24 AM
+  - Sukla Paksha Dashami - Aug 14 10:24 AM – Aug 15 10:27 AM
+  vedic_Rtu: Varsha (Monsoon)
+  vikram_samvat_date: 2081, Pingala
+15:
+  amanta_month: Sravana
+  dRika_Rtu: Varsha (Monsoon)
+  date:
+  - 15
+  - 8
+  - 2024
+  moonrise: Aug 15 3:23 PM
+  moonset: Aug 16 2:00 AM
+  nakshatra:
+  - Jyeshta - Aug 14 12:12 PM – Aug 15 12:52 PM
+  - Moola - Aug 15 12:52 PM – Aug 16 12:43 PM
+  purnimanta_month: Sravana
+  shakaka_samvat_date: 1946, Krodhi
+  sunrise: 6:07 AM
+  sunset: 6:55 PM
+  tithi:
+  - Sukla Paksha Dashami - Aug 14 10:24 AM – Aug 15 10:27 AM
+  - Sukla Paksha Ekadashi - Aug 15 10:27 AM – Aug 16 09:39 AM
+  vedic_Rtu: Varsha (Monsoon)
+  vikram_samvat_date: 2081, Pingala
+16:
+  amanta_month: Sravana
+  dRika_Rtu: Varsha (Monsoon)
+  date:
+  - 16
+  - 8
+  - 2024
+  moonrise: Aug 16 4:22 PM
+  moonset: Aug 17 3:02 AM
+  nakshatra:
+  - Moola - Aug 15 12:52 PM – Aug 16 12:43 PM
+  - Purva Ashadha - Aug 16 12:43 PM – Aug 17 11:48 AM
+  purnimanta_month: Sravana
+  shakaka_samvat_date: 1946, Krodhi
+  sunrise: 6:07 AM
+  sunset: 6:54 PM
+  tithi:
+  - Sukla Paksha Ekadashi - Aug 15 10:27 AM – Aug 16 09:39 AM
+  - Sukla Paksha Dwadashi - Aug 16 09:39 AM – Aug 17 08:06 AM
+  vedic_Rtu: Varsha (Monsoon)
+  vikram_samvat_date: 2081, Pingala
+17:
+  amanta_month: Sravana
+  dRika_Rtu: Varsha (Monsoon)
+  date:
+  - 17
+  - 8
+  - 2024
+  moonrise: Aug 17 5:18 PM
+  moonset: Aug 18 4:09 AM
+  nakshatra:
+  - Purva Ashadha - Aug 16 12:43 PM – Aug 17 11:48 AM
+  - Uttara Ashadha - Aug 17 11:49 AM – Aug 18 10:14 AM
+  purnimanta_month: Sravana
+  shakaka_samvat_date: 1946, Krodhi
+  sunrise: 6:08 AM
+  sunset: 6:53 PM
+  tithi:
+  - Sukla Paksha Dwadashi - Aug 16 09:39 AM – Aug 17 08:06 AM
+  - Sukla Paksha Trayodashi [ Tithi Kshaya ]- Aug 17 08:06 AM – Aug 18 05:51 AM
+  - Sukla Paksha Chaturdashi - Aug 18 05:51 AM – Aug 19 03:05 AM
+  vedic_Rtu: Varsha (Monsoon)
+  vikram_samvat_date: 2081, Pingala
+18:
+  amanta_month: Sravana
+  dRika_Rtu: Varsha (Monsoon)
+  date:
+  - 18
+  - 8
+  - 2024
+  moonrise: Aug 18 6:08 PM
+  moonset: Aug 19 5:17 AM
+  nakshatra:
+  - Uttara Ashadha - Aug 17 11:49 AM – Aug 18 10:14 AM
+  - Shravana - Aug 18 10:15 AM – Aug 19 08:10 AM
+  purnimanta_month: Sravana
+  shakaka_samvat_date: 1946, Krodhi
+  sunrise: 6:08 AM
+  sunset: 6:53 PM
+  tithi:
+  - Sukla Paksha Chaturdashi - Aug 18 05:51 AM – Aug 19 03:05 AM
+  - Sukla Paksha Purnima - Aug 19 03:05 AM – Aug 19 11:55 PM
+  vedic_Rtu: Varsha (Monsoon)
+  vikram_samvat_date: 2081, Pingala
+19:
+  amanta_month: Sravana
+  dRika_Rtu: Varsha (Monsoon)
+  date:
+  - 19
+  - 8
+  - 2024
+  moonrise: Aug 19 6:54 PM
+  moonset: Aug 20 6:24 AM
+  nakshatra:
+  - Shravana - Aug 18 10:15 AM – Aug 19 08:10 AM
+  - Dhanishta - Aug 19 08:10 AM – Aug 20 05:45 AM
+  - Shatabhisha - Aug 20 05:45 AM – Aug 21 03:09 AM
+  purnimanta_month: Sravana
+  shakaka_samvat_date: 1946, Krodhi
+  sunrise: 6:08 AM
+  sunset: 6:52 PM
+  tithi:
+  - Sukla Paksha Purnima - Aug 19 03:05 AM – Aug 19 11:55 PM
+  - Krishna Paksha Pratipada - Aug 19 11:55 PM – Aug 20 08:33 PM
+  vedic_Rtu: Varsha (Monsoon)
+  vikram_samvat_date: 2081, Pingala
+20:
+  amanta_month: Sravana
+  dRika_Rtu: Varsha (Monsoon)
+  date:
+  - 20
+  - 8
+  - 2024
+  moonrise: Aug 20 7:35 PM
+  moonset: Aug 21 7:29 AM
+  nakshatra:
+  - Shatabhisha - Aug 20 05:45 AM – Aug 21 03:09 AM
+  - Purva Bhadrapada - Aug 21 03:09 AM – Aug 22 12:33 AM
+  purnimanta_month: Bhadrapada
+  shakaka_samvat_date: 1946, Krodhi
+  sunrise: 6:09 AM
+  sunset: 6:51 PM
+  tithi:
+  - Krishna Paksha Pratipada - Aug 19 11:55 PM – Aug 20 08:33 PM
+  - Krishna Paksha Dwitiya - Aug 20 08:33 PM – Aug 21 05:07 PM
+  vedic_Rtu: Varsha (Monsoon)
+  vikram_samvat_date: 2081, Pingala
+21:
+  amanta_month: Sravana
+  dRika_Rtu: Varsha (Monsoon)
+  date:
+  - 21
+  - 8
+  - 2024
+  moonrise: Aug 21 8:13 PM
+  moonset: Aug 22 8:33 AM
+  nakshatra:
+  - Purva Bhadrapada - Aug 21 03:09 AM – Aug 22 12:33 AM
+  - Uttara Bhadrapada - Aug 22 12:33 AM – Aug 22 10:05 PM
+  purnimanta_month: Bhadrapada
+  shakaka_samvat_date: 1946, Krodhi
+  sunrise: 6:09 AM
+  sunset: 6:50 PM
+  tithi:
+  - Krishna Paksha Dwitiya - Aug 20 08:33 PM – Aug 21 05:07 PM
+  - Krishna Paksha Tritiya - Aug 21 05:07 PM – Aug 22 01:46 PM
+  vedic_Rtu: Varsha (Monsoon)
+  vikram_samvat_date: 2081, Pingala
+22:
+  amanta_month: Sravana
+  dRika_Rtu: Varsha (Monsoon)
+  date:
+  - 22
+  - 8
+  - 2024
+  moonrise: Aug 22 8:51 PM
+  moonset: Aug 23 9:36 AM
+  nakshatra:
+  - Uttara Bhadrapada - Aug 22 12:33 AM – Aug 22 10:05 PM
+  - Revati - Aug 22 10:05 PM – Aug 23 07:54 PM
+  purnimanta_month: Bhadrapada
+  shakaka_samvat_date: 1946, Krodhi
+  sunrise: 6:09 AM
+  sunset: 6:49 PM
+  tithi:
+  - Krishna Paksha Tritiya - Aug 21 05:07 PM – Aug 22 01:46 PM
+  - Krishna Paksha Chaturthi - Aug 22 01:46 PM – Aug 23 10:39 AM
+  vedic_Rtu: Varsha (Monsoon)
+  vikram_samvat_date: 2081, Pingala
+23:
+  amanta_month: Sravana
+  dRika_Rtu: Varsha (Monsoon)
+  date:
+  - 23
+  - 8
+  - 2024
+  moonrise: Aug 23 9:28 PM
+  moonset: Aug 24 10:40 AM
+  nakshatra:
+  - Revati - Aug 22 10:05 PM – Aug 23 07:54 PM
+  - Ashwini - Aug 23 07:54 PM – Aug 24 06:05 PM
+  purnimanta_month: Bhadrapada
+  shakaka_samvat_date: 1946, Krodhi
+  sunrise: 6:10 AM
+  sunset: 6:48 PM
+  tithi:
+  - Krishna Paksha Chaturthi - Aug 22 01:46 PM – Aug 23 10:39 AM
+  - Krishna Paksha Panchami - Aug 23 10:39 AM – Aug 24 07:52 AM
+  vedic_Rtu: Sharad (Autumn)
+  vikram_samvat_date: 2081, Pingala
+24:
+  amanta_month: Sravana
+  dRika_Rtu: Varsha (Monsoon)
+  date:
+  - 24
+  - 8
+  - 2024
+  moonrise: Aug 24 10:08 PM
+  moonset: Aug 25 11:45 AM
+  nakshatra:
+  - Ashwini - Aug 23 07:54 PM – Aug 24 06:05 PM
+  - Bharani - Aug 24 06:05 PM – Aug 25 04:45 PM
+  purnimanta_month: Bhadrapada
+  shakaka_samvat_date: 1946, Krodhi
+  sunrise: 6:10 AM
+  sunset: 6:47 PM
+  tithi:
+  - Krishna Paksha Panchami - Aug 23 10:39 AM – Aug 24 07:52 AM
+  - Krishna Paksha Shashthi [ Tithi Kshaya ]- Aug 24 07:52 AM – Aug 25 05:31 AM
+  - Krishna Paksha Saptami - Aug 25 05:31 AM – Aug 26 03:39 AM
+  vedic_Rtu: Sharad (Autumn)
+  vikram_samvat_date: 2081, Pingala
+25:
+  amanta_month: Sravana
+  dRika_Rtu: Varsha (Monsoon)
+  date:
+  - 25
+  - 8
+  - 2024
+  moonrise: Aug 25 10:52 PM
+  moonset: Aug 26 12:49 PM
+  nakshatra:
+  - Bharani - Aug 24 06:05 PM – Aug 25 04:45 PM
+  - Krithika - Aug 25 04:45 PM – Aug 26 03:55 PM
+  purnimanta_month: Bhadrapada
+  shakaka_samvat_date: 1946, Krodhi
+  sunrise: 6:10 AM
+  sunset: 6:47 PM
+  tithi:
+  - Krishna Paksha Saptami - Aug 25 05:31 AM – Aug 26 03:39 AM
+  - Krishna Paksha Ashtami - Aug 26 03:39 AM – Aug 27 02:20 AM
+  vedic_Rtu: Sharad (Autumn)
+  vikram_samvat_date: 2081, Pingala
+26:
+  amanta_month: Sravana
+  dRika_Rtu: Varsha (Monsoon)
+  date:
+  - 26
+  - 8
+  - 2024
+  moonrise: Aug 26 11:40 PM
+  moonset: Aug 26 12:49 PM
+  nakshatra:
+  - Krithika - Aug 25 04:45 PM – Aug 26 03:55 PM
+  - Rohini - Aug 26 03:55 PM – Aug 27 03:38 PM
+  purnimanta_month: Bhadrapada
+  shakaka_samvat_date: 1946, Krodhi
+  sunrise: 6:11 AM
+  sunset: 6:46 PM
+  tithi:
+  - Krishna Paksha Ashtami - Aug 26 03:39 AM – Aug 27 02:20 AM
+  - Krishna Paksha Navami - Aug 27 02:20 AM – Aug 28 01:33 AM
+  vedic_Rtu: Sharad (Autumn)
+  vikram_samvat_date: 2081, Pingala
+27:
+  amanta_month: Sravana
+  dRika_Rtu: Varsha (Monsoon)
+  date:
+  - 27
+  - 8
+  - 2024
+  moonrise: Aug 28 12:34 AM
+  moonset: Aug 27 1:53 PM
+  nakshatra:
+  - Rohini - Aug 26 03:55 PM – Aug 27 03:38 PM
+  - Mrigashirsha - Aug 27 03:38 PM – Aug 28 03:53 PM
+  purnimanta_month: Bhadrapada
+  shakaka_samvat_date: 1946, Krodhi
+  sunrise: 6:11 AM
+  sunset: 6:45 PM
+  tithi:
+  - Krishna Paksha Navami - Aug 27 02:20 AM – Aug 28 01:33 AM
+  - Krishna Paksha Dashami - Aug 28 01:33 AM – Aug 29 01:19 AM
+  vedic_Rtu: Sharad (Autumn)
+  vikram_samvat_date: 2081, Pingala
+28:
+  amanta_month: Sravana
+  dRika_Rtu: Varsha (Monsoon)
+  date:
+  - 28
+  - 8
+  - 2024
+  moonrise: Aug 28 12:34 AM
+  moonset: Aug 28 2:53 PM
+  nakshatra:
+  - Mrigashirsha - Aug 27 03:38 PM – Aug 28 03:53 PM
+  - Ardra - Aug 28 03:53 PM – Aug 29 04:39 PM
+  purnimanta_month: Bhadrapada
+  shakaka_samvat_date: 1946, Krodhi
+  sunrise: 6:11 AM
+  sunset: 6:44 PM
+  tithi:
+  - Krishna Paksha Dashami - Aug 28 01:33 AM – Aug 29 01:19 AM
+  - Krishna Paksha Ekadashi - Aug 29 01:19 AM – Aug 30 01:37 AM
+  vedic_Rtu: Sharad (Autumn)
+  vikram_samvat_date: 2081, Pingala
+29:
+  amanta_month: Sravana
+  dRika_Rtu: Varsha (Monsoon)
+  date:
+  - 29
+  - 8
+  - 2024
+  moonrise: Aug 29 1:30 AM
+  moonset: Aug 29 3:48 PM
+  nakshatra:
+  - Ardra - Aug 28 03:53 PM – Aug 29 04:39 PM
+  - Punarvasu - Aug 29 04:39 PM – Aug 30 05:55 PM
+  purnimanta_month: Bhadrapada
+  shakaka_samvat_date: 1946, Krodhi
+  sunrise: 6:12 AM
+  sunset: 6:43 PM
+  tithi:
+  - Krishna Paksha Ekadashi - Aug 29 01:19 AM – Aug 30 01:37 AM
+  - Krishna Paksha Dwadashi - Aug 30 01:37 AM – Aug 31 02:25 AM
+  vedic_Rtu: Sharad (Autumn)
+  vikram_samvat_date: 2081, Pingala
+30:
+  amanta_month: Sravana
+  dRika_Rtu: Varsha (Monsoon)
+  date:
+  - 30
+  - 8
+  - 2024
+  moonrise: Aug 30 2:29 AM
+  moonset: Aug 30 4:37 PM
+  nakshatra:
+  - Punarvasu - Aug 29 04:39 PM – Aug 30 05:55 PM
+  - Pushya - Aug 30 05:55 PM – Aug 31 07:39 PM
+  purnimanta_month: Bhadrapada
+  shakaka_samvat_date: 1946, Krodhi
+  sunrise: 6:12 AM
+  sunset: 6:42 PM
+  tithi:
+  - Krishna Paksha Dwadashi - Aug 30 01:37 AM – Aug 31 02:25 AM
+  - Krishna Paksha Trayodashi - Aug 31 02:25 AM – Sep 01 03:41 AM
+  vedic_Rtu: Sharad (Autumn)
+  vikram_samvat_date: 2081, Pingala
+31:
+  amanta_month: Sravana
+  dRika_Rtu: Varsha (Monsoon)
+  date:
+  - 31
+  - 8
+  - 2024
+  moonrise: Aug 31 3:28 AM
+  moonset: Aug 31 5:19 PM
+  nakshatra:
+  - Pushya - Aug 30 05:55 PM – Aug 31 07:39 PM
+  - Ashlesha - Aug 31 07:39 PM – Sep 01 09:48 PM
+  purnimanta_month: Bhadrapada
+  shakaka_samvat_date: 1946, Krodhi
+  sunrise: 6:12 AM
+  sunset: 6:41 PM
+  tithi:
+  - Krishna Paksha Trayodashi - Aug 31 02:25 AM – Sep 01 03:41 AM
+  - Krishna Paksha Chaturdashi - Sep 01 03:41 AM – Sep 02 05:22 AM
+  vedic_Rtu: Sharad (Autumn)
+  vikram_samvat_date: 2081, Pingala

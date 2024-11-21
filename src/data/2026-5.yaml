@@ -1,0 +1,650 @@
+1:
+  amanta_month: Vaisakha
+  dRika_Rtu: Vasant (Spring)
+  date:
+  - 1
+  - 5
+  - 2026
+  moonrise: May 01 6:44 PM
+  moonset: May 02 5:53 AM
+  nakshatra:
+  - Swati - May 01 02:16 AM – May 02 04:35 AM
+  - Vishaka - May 02 04:35 AM – May 03 07:09 AM
+  purnimanta_month: Vaisakha
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 5:57 AM
+  sunset: 6:50 PM
+  tithi:
+  - Sukla Paksha Purnima - Apr 30 09:12 PM – May 01 10:52 PM
+  - Krishna Paksha Pratipada - May 01 10:52 PM – May 03 12:50 AM
+  vedic_Rtu: Grishma (Summer)
+  vikram_samvat_date: 2083, Siddharthi
+2:
+  amanta_month: Vaisakha
+  dRika_Rtu: Vasant (Spring)
+  date:
+  - 2
+  - 5
+  - 2026
+  moonrise: May 02 7:38 PM
+  moonset: May 03 6:33 AM
+  nakshatra:
+  - Vishaka - May 02 04:35 AM – May 03 07:09 AM
+  purnimanta_month: Jyeshta
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 5:57 AM
+  sunset: 6:50 PM
+  tithi:
+  - Krishna Paksha Pratipada - May 01 10:52 PM – May 03 12:50 AM
+  - Krishna Paksha Dwitiya - May 03 12:50 AM – May 04 03:02 AM
+  vedic_Rtu: Grishma (Summer)
+  vikram_samvat_date: 2083, Siddharthi
+3:
+  amanta_month: Vaisakha
+  dRika_Rtu: Vasant (Spring)
+  date:
+  - 3
+  - 5
+  - 2026
+  moonrise: May 03 8:33 PM
+  moonset: May 04 7:16 AM
+  nakshatra:
+  - Vishaka - May 02 04:35 AM – May 03 07:09 AM
+  - Anuradha - May 03 07:09 AM – May 04 09:57 AM
+  purnimanta_month: Jyeshta
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 5:56 AM
+  sunset: 6:51 PM
+  tithi:
+  - Krishna Paksha Dwitiya - May 03 12:50 AM – May 04 03:02 AM
+  - Krishna Paksha Tritiya - May 04 03:02 AM – May 05 05:24 AM
+  vedic_Rtu: Grishma (Summer)
+  vikram_samvat_date: 2083, Siddharthi
+4:
+  amanta_month: Vaisakha
+  dRika_Rtu: Vasant (Spring)
+  date:
+  - 4
+  - 5
+  - 2026
+  moonrise: May 04 9:28 PM
+  moonset: May 05 8:05 AM
+  nakshatra:
+  - Anuradha - May 03 07:09 AM – May 04 09:57 AM
+  - Jyeshta - May 04 09:57 AM – May 05 12:54 PM
+  purnimanta_month: Jyeshta
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 5:55 AM
+  sunset: 6:51 PM
+  tithi:
+  - Krishna Paksha Tritiya - May 04 03:02 AM – May 05 05:24 AM
+  - Krishna Paksha Chaturthi - May 05 05:24 AM – May 06 07:51 AM
+  vedic_Rtu: Grishma (Summer)
+  vikram_samvat_date: 2083, Siddharthi
+5:
+  amanta_month: Vaisakha
+  dRika_Rtu: Vasant (Spring)
+  date:
+  - 5
+  - 5
+  - 2026
+  moonrise: May 05 10:20 PM
+  moonset: May 06 8:57 AM
+  nakshatra:
+  - Jyeshta - May 04 09:57 AM – May 05 12:54 PM
+  - Moola - May 05 12:54 PM – May 06 03:53 PM
+  purnimanta_month: Jyeshta
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 5:55 AM
+  sunset: 6:52 PM
+  tithi:
+  - Krishna Paksha Chaturthi [ Tithi Vridhi ]- May 05 05:24 AM – May 06 07:51 AM
+  vedic_Rtu: Grishma (Summer)
+  vikram_samvat_date: 2083, Siddharthi
+6:
+  amanta_month: Vaisakha
+  dRika_Rtu: Vasant (Spring)
+  date:
+  - 6
+  - 5
+  - 2026
+  moonrise: May 06 11:09 PM
+  moonset: May 07 9:51 AM
+  nakshatra:
+  - Moola - May 05 12:54 PM – May 06 03:53 PM
+  - Purva Ashadha - May 06 03:53 PM – May 07 06:45 PM
+  purnimanta_month: Jyeshta
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 5:54 AM
+  sunset: 6:52 PM
+  tithi:
+  - Krishna Paksha Chaturthi - May 05 05:24 AM – May 06 07:51 AM
+  - Krishna Paksha Panchami - May 06 07:51 AM – May 07 10:14 AM
+  vedic_Rtu: Grishma (Summer)
+  vikram_samvat_date: 2083, Siddharthi
+7:
+  amanta_month: Vaisakha
+  dRika_Rtu: Vasant (Spring)
+  date:
+  - 7
+  - 5
+  - 2026
+  moonrise: May 07 11:54 PM
+  moonset: May 08 10:46 AM
+  nakshatra:
+  - Purva Ashadha - May 06 03:53 PM – May 07 06:45 PM
+  - Uttara Ashadha - May 07 06:45 PM – May 08 09:19 PM
+  purnimanta_month: Jyeshta
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 5:53 AM
+  sunset: 6:53 PM
+  tithi:
+  - Krishna Paksha Panchami - May 06 07:51 AM – May 07 10:14 AM
+  - Krishna Paksha Shashthi - May 07 10:14 AM – May 08 12:21 PM
+  vedic_Rtu: Grishma (Summer)
+  vikram_samvat_date: 2083, Siddharthi
+8:
+  amanta_month: Vaisakha
+  dRika_Rtu: Vasant (Spring)
+  date:
+  - 8
+  - 5
+  - 2026
+  moonrise: May 09 12:34 AM
+  moonset: May 09 11:42 AM
+  nakshatra:
+  - Uttara Ashadha - May 07 06:45 PM – May 08 09:19 PM
+  - Shravana - May 08 09:19 PM – May 09 11:24 PM
+  purnimanta_month: Jyeshta
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 5:53 AM
+  sunset: 6:53 PM
+  tithi:
+  - Krishna Paksha Shashthi - May 07 10:14 AM – May 08 12:21 PM
+  - Krishna Paksha Saptami - May 08 12:22 PM – May 09 02:03 PM
+  vedic_Rtu: Grishma (Summer)
+  vikram_samvat_date: 2083, Siddharthi
+9:
+  amanta_month: Vaisakha
+  dRika_Rtu: Vasant (Spring)
+  date:
+  - 9
+  - 5
+  - 2026
+  moonrise: May 09 12:34 AM
+  moonset: May 10 12:37 PM
+  nakshatra:
+  - Shravana - May 08 09:19 PM – May 09 11:24 PM
+  - Dhanishta - May 09 11:24 PM – May 11 12:50 AM
+  purnimanta_month: Jyeshta
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 5:52 AM
+  sunset: 6:53 PM
+  tithi:
+  - Krishna Paksha Saptami - May 08 12:22 PM – May 09 02:03 PM
+  - Krishna Paksha Ashtami - May 09 02:03 PM – May 10 03:06 PM
+  vedic_Rtu: Grishma (Summer)
+  vikram_samvat_date: 2083, Siddharthi
+10:
+  amanta_month: Vaisakha
+  dRika_Rtu: Vasant (Spring)
+  date:
+  - 10
+  - 5
+  - 2026
+  moonrise: May 10 1:11 AM
+  moonset: May 10 12:37 PM
+  nakshatra:
+  - Dhanishta - May 09 11:24 PM – May 11 12:50 AM
+  - Shatabhisha - May 11 12:50 AM – May 12 01:28 AM
+  purnimanta_month: Jyeshta
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 5:52 AM
+  sunset: 6:54 PM
+  tithi:
+  - Krishna Paksha Ashtami - May 09 02:03 PM – May 10 03:06 PM
+  - Krishna Paksha Navami - May 10 03:06 PM – May 11 03:24 PM
+  vedic_Rtu: Grishma (Summer)
+  vikram_samvat_date: 2083, Siddharthi
+11:
+  amanta_month: Vaisakha
+  dRika_Rtu: Vasant (Spring)
+  date:
+  - 11
+  - 5
+  - 2026
+  moonrise: May 11 1:46 AM
+  moonset: May 11 1:32 PM
+  nakshatra:
+  - Shatabhisha - May 11 12:50 AM – May 12 01:28 AM
+  - Purva Bhadrapada - May 12 01:28 AM – May 13 01:17 AM
+  purnimanta_month: Jyeshta
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 5:51 AM
+  sunset: 6:54 PM
+  tithi:
+  - Krishna Paksha Navami - May 10 03:06 PM – May 11 03:24 PM
+  - Krishna Paksha Dashami - May 11 03:24 PM – May 12 02:52 PM
+  vedic_Rtu: Grishma (Summer)
+  vikram_samvat_date: 2083, Siddharthi
+12:
+  amanta_month: Vaisakha
+  dRika_Rtu: Vasant (Spring)
+  date:
+  - 12
+  - 5
+  - 2026
+  moonrise: May 12 2:20 AM
+  moonset: May 12 2:28 PM
+  nakshatra:
+  - Purva Bhadrapada - May 12 01:28 AM – May 13 01:17 AM
+  - Uttara Bhadrapada - May 13 01:17 AM – May 14 12:17 AM
+  purnimanta_month: Jyeshta
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 5:51 AM
+  sunset: 6:55 PM
+  tithi:
+  - Krishna Paksha Dashami - May 11 03:24 PM – May 12 02:52 PM
+  - Krishna Paksha Ekadashi - May 12 02:52 PM – May 13 01:30 PM
+  vedic_Rtu: Grishma (Summer)
+  vikram_samvat_date: 2083, Siddharthi
+13:
+  amanta_month: Vaisakha
+  dRika_Rtu: Vasant (Spring)
+  date:
+  - 13
+  - 5
+  - 2026
+  moonrise: May 13 2:53 AM
+  moonset: May 13 3:26 PM
+  nakshatra:
+  - Uttara Bhadrapada - May 13 01:17 AM – May 14 12:17 AM
+  - Revati - May 14 12:17 AM – May 14 10:33 PM
+  purnimanta_month: Jyeshta
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 5:50 AM
+  sunset: 6:55 PM
+  tithi:
+  - Krishna Paksha Ekadashi - May 12 02:52 PM – May 13 01:30 PM
+  - Krishna Paksha Dwadashi - May 13 01:30 PM – May 14 11:20 AM
+  vedic_Rtu: Grishma (Summer)
+  vikram_samvat_date: 2083, Siddharthi
+14:
+  amanta_month: Vaisakha
+  dRika_Rtu: Vasant (Spring)
+  date:
+  - 14
+  - 5
+  - 2026
+  moonrise: May 14 3:29 AM
+  moonset: May 14 4:27 PM
+  nakshatra:
+  - Revati - May 14 12:17 AM – May 14 10:33 PM
+  - Ashwini - May 14 10:33 PM – May 15 08:14 PM
+  purnimanta_month: Jyeshta
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 5:50 AM
+  sunset: 6:56 PM
+  tithi:
+  - Krishna Paksha Dwadashi - May 13 01:30 PM – May 14 11:20 AM
+  - Krishna Paksha Trayodashi - May 14 11:20 AM – May 15 08:31 AM
+  vedic_Rtu: Grishma (Summer)
+  vikram_samvat_date: 2083, Siddharthi
+15:
+  amanta_month: Vaisakha
+  dRika_Rtu: Vasant (Spring)
+  date:
+  - 15
+  - 5
+  - 2026
+  moonrise: May 15 4:08 AM
+  moonset: May 15 5:32 PM
+  nakshatra:
+  - Ashwini - May 14 10:33 PM – May 15 08:14 PM
+  - Bharani - May 15 08:14 PM – May 16 05:30 PM
+  purnimanta_month: Jyeshta
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 5:49 AM
+  sunset: 6:56 PM
+  tithi:
+  - Krishna Paksha Trayodashi - May 14 11:20 AM – May 15 08:31 AM
+  - Krishna Paksha Chaturdashi [ Tithi Kshaya ]- May 15 08:31 AM – May 16 05:11 AM
+  - Krishna Paksha Amavasya - May 16 05:11 AM – May 17 01:30 AM
+  vedic_Rtu: Grishma (Summer)
+  vikram_samvat_date: 2083, Siddharthi
+16:
+  amanta_month: Vaisakha
+  dRika_Rtu: Vasant (Spring)
+  date:
+  - 16
+  - 5
+  - 2026
+  moonrise: May 16 4:52 AM
+  moonset: May 16 6:42 PM
+  nakshatra:
+  - Bharani - May 15 08:14 PM – May 16 05:30 PM
+  - Krithika - May 16 05:30 PM – May 17 02:32 PM
+  purnimanta_month: Jyeshta
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 5:49 AM
+  sunset: 6:57 PM
+  tithi:
+  - Krishna Paksha Amavasya - May 16 05:11 AM – May 17 01:30 AM
+  - Sukla Paksha Pratipada - May 17 01:30 AM – May 17 09:41 PM
+  vedic_Rtu: Grishma (Summer)
+  vikram_samvat_date: 2083, Siddharthi
+17:
+  amanta_month: Jyeshta
+  dRika_Rtu: Grishma (Summer)
+  date:
+  - 17
+  - 5
+  - 2026
+  moonrise: May 17 5:43 AM
+  moonset: May 17 7:54 PM
+  nakshatra:
+  - Krithika - May 16 05:30 PM – May 17 02:32 PM
+  - Rohini - May 17 02:32 PM – May 18 11:31 AM
+  purnimanta_month: Jyeshta
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 5:48 AM
+  sunset: 6:57 PM
+  tithi:
+  - Sukla Paksha Pratipada - May 17 01:30 AM – May 17 09:41 PM
+  - Sukla Paksha Dwitiya - May 17 09:41 PM – May 18 05:53 PM
+  vedic_Rtu: Grishma (Summer)
+  vikram_samvat_date: 2083, Siddharthi
+18:
+  amanta_month: Jyeshta
+  dRika_Rtu: Grishma (Summer)
+  date:
+  - 18
+  - 5
+  - 2026
+  moonrise: May 18 6:43 AM
+  moonset: May 18 9:04 PM
+  nakshatra:
+  - Rohini - May 17 02:32 PM – May 18 11:31 AM
+  - Mrigashirsha - May 18 11:31 AM – May 19 08:41 AM
+  purnimanta_month: Jyeshta
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 5:48 AM
+  sunset: 6:58 PM
+  tithi:
+  - Sukla Paksha Dwitiya - May 17 09:41 PM – May 18 05:53 PM
+  - Sukla Paksha Tritiya - May 18 05:53 PM – May 19 02:18 PM
+  vedic_Rtu: Grishma (Summer)
+  vikram_samvat_date: 2083, Siddharthi
+19:
+  amanta_month: Jyeshta
+  dRika_Rtu: Grishma (Summer)
+  date:
+  - 19
+  - 5
+  - 2026
+  moonrise: May 19 7:49 AM
+  moonset: May 19 10:09 PM
+  nakshatra:
+  - Mrigashirsha - May 18 11:31 AM – May 19 08:41 AM
+  - Ardra - May 19 08:41 AM – May 20 06:11 AM
+  purnimanta_month: Jyeshta
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 5:48 AM
+  sunset: 6:58 PM
+  tithi:
+  - Sukla Paksha Tritiya - May 18 05:53 PM – May 19 02:18 PM
+  - Sukla Paksha Chaturthi - May 19 02:18 PM – May 20 11:07 AM
+  vedic_Rtu: Grishma (Summer)
+  vikram_samvat_date: 2083, Siddharthi
+20:
+  amanta_month: Jyeshta
+  dRika_Rtu: Grishma (Summer)
+  date:
+  - 20
+  - 5
+  - 2026
+  moonrise: May 20 8:58 AM
+  moonset: May 20 11:05 PM
+  nakshatra:
+  - Ardra - May 19 08:41 AM – May 20 06:11 AM
+  - Punarvasu - May 20 06:11 AM – May 21 04:12 AM
+  - Pushya - May 21 04:12 AM – May 22 02:49 AM
+  purnimanta_month: Jyeshta
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 5:47 AM
+  sunset: 6:59 PM
+  tithi:
+  - Sukla Paksha Chaturthi - May 19 02:18 PM – May 20 11:07 AM
+  - Sukla Paksha Panchami - May 20 11:07 AM – May 21 08:26 AM
+  vedic_Rtu: Grishma (Summer)
+  vikram_samvat_date: 2083, Siddharthi
+21:
+  amanta_month: Jyeshta
+  dRika_Rtu: Grishma (Summer)
+  date:
+  - 21
+  - 5
+  - 2026
+  moonrise: May 21 10:06 AM
+  moonset: May 21 11:53 PM
+  nakshatra:
+  - Pushya - May 21 04:12 AM – May 22 02:49 AM
+  - Ashlesha - May 22 02:49 AM – May 23 02:08 AM
+  purnimanta_month: Jyeshta
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 5:47 AM
+  sunset: 6:59 PM
+  tithi:
+  - Sukla Paksha Panchami - May 20 11:07 AM – May 21 08:26 AM
+  - Sukla Paksha Shashthi - May 21 08:26 AM – May 22 06:24 AM
+  vedic_Rtu: Grishma (Summer)
+  vikram_samvat_date: 2083, Siddharthi
+22:
+  amanta_month: Jyeshta
+  dRika_Rtu: Grishma (Summer)
+  date:
+  - 22
+  - 5
+  - 2026
+  moonrise: May 22 11:11 AM
+  moonset: May 23 12:34 AM
+  nakshatra:
+  - Ashlesha - May 22 02:49 AM – May 23 02:08 AM
+  - Magha - May 23 02:08 AM – May 24 02:09 AM
+  purnimanta_month: Jyeshta
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 5:47 AM
+  sunset: 7:00 PM
+  tithi:
+  - Sukla Paksha Shashthi - May 21 08:26 AM – May 22 06:24 AM
+  - Sukla Paksha Saptami [ Tithi Kshaya ]- May 22 06:24 AM – May 23 05:04 AM
+  - Sukla Paksha Ashtami - May 23 05:04 AM – May 24 04:27 AM
+  vedic_Rtu: Grishma (Summer)
+  vikram_samvat_date: 2083, Siddharthi
+23:
+  amanta_month: Jyeshta
+  dRika_Rtu: Grishma (Summer)
+  date:
+  - 23
+  - 5
+  - 2026
+  moonrise: May 23 12:11 PM
+  moonset: May 24 1:10 AM
+  nakshatra:
+  - Magha - May 23 02:08 AM – May 24 02:09 AM
+  - Purva Phalguni - May 24 02:09 AM – May 25 02:50 AM
+  purnimanta_month: Jyeshta
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 5:46 AM
+  sunset: 7:00 PM
+  tithi:
+  - Sukla Paksha Ashtami - May 23 05:04 AM – May 24 04:27 AM
+  - Sukla Paksha Navami - May 24 04:27 AM – May 25 04:31 AM
+  vedic_Rtu: Grishma (Summer)
+  vikram_samvat_date: 2083, Siddharthi
+24:
+  amanta_month: Jyeshta
+  dRika_Rtu: Grishma (Summer)
+  date:
+  - 24
+  - 5
+  - 2026
+  moonrise: May 24 1:07 PM
+  moonset: May 25 1:43 AM
+  nakshatra:
+  - Purva Phalguni - May 24 02:09 AM – May 25 02:50 AM
+  - Uttara Phalguni - May 25 02:50 AM – May 26 04:08 AM
+  purnimanta_month: Jyeshta
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 5:46 AM
+  sunset: 7:00 PM
+  tithi:
+  - Sukla Paksha Navami - May 24 04:27 AM – May 25 04:31 AM
+  - Sukla Paksha Dashami - May 25 04:31 AM – May 26 05:11 AM
+  vedic_Rtu: Grishma (Summer)
+  vikram_samvat_date: 2083, Siddharthi
+25:
+  amanta_month: Jyeshta
+  dRika_Rtu: Grishma (Summer)
+  date:
+  - 25
+  - 5
+  - 2026
+  moonrise: May 25 2:01 PM
+  moonset: May 26 2:14 AM
+  nakshatra:
+  - Uttara Phalguni - May 25 02:50 AM – May 26 04:08 AM
+  - Hasta - May 26 04:08 AM – May 27 05:56 AM
+  purnimanta_month: Jyeshta
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 5:46 AM
+  sunset: 7:01 PM
+  tithi:
+  - Sukla Paksha Dashami - May 25 04:31 AM – May 26 05:11 AM
+  - Sukla Paksha Ekadashi - May 26 05:11 AM – May 27 06:22 AM
+  vedic_Rtu: Grishma (Summer)
+  vikram_samvat_date: 2083, Siddharthi
+26:
+  amanta_month: Jyeshta
+  dRika_Rtu: Grishma (Summer)
+  date:
+  - 26
+  - 5
+  - 2026
+  moonrise: May 26 2:54 PM
+  moonset: May 27 2:46 AM
+  nakshatra:
+  - Hasta - May 26 04:08 AM – May 27 05:56 AM
+  purnimanta_month: Jyeshta
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 5:46 AM
+  sunset: 7:01 PM
+  tithi:
+  - Sukla Paksha Ekadashi [ Tithi Vridhi ]- May 26 05:11 AM – May 27 06:22 AM
+  vedic_Rtu: Grishma (Summer)
+  vikram_samvat_date: 2083, Siddharthi
+27:
+  amanta_month: Jyeshta
+  dRika_Rtu: Grishma (Summer)
+  date:
+  - 27
+  - 5
+  - 2026
+  moonrise: May 27 3:46 PM
+  moonset: May 28 3:18 AM
+  nakshatra:
+  - Hasta - May 26 04:08 AM – May 27 05:56 AM
+  - Chitra - May 27 05:56 AM – May 28 08:08 AM
+  purnimanta_month: Jyeshta
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 5:45 AM
+  sunset: 7:02 PM
+  tithi:
+  - Sukla Paksha Ekadashi - May 26 05:11 AM – May 27 06:22 AM
+  - Sukla Paksha Dwadashi - May 27 06:22 AM – May 28 07:57 AM
+  vedic_Rtu: Grishma (Summer)
+  vikram_samvat_date: 2083, Siddharthi
+28:
+  amanta_month: Jyeshta
+  dRika_Rtu: Grishma (Summer)
+  date:
+  - 28
+  - 5
+  - 2026
+  moonrise: May 28 4:39 PM
+  moonset: May 29 3:53 AM
+  nakshatra:
+  - Chitra - May 27 05:56 AM – May 28 08:08 AM
+  - Swati - May 28 08:08 AM – May 29 10:37 AM
+  purnimanta_month: Jyeshta
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 5:45 AM
+  sunset: 7:02 PM
+  tithi:
+  - Sukla Paksha Dwadashi - May 27 06:22 AM – May 28 07:57 AM
+  - Sukla Paksha Trayodashi - May 28 07:57 AM – May 29 09:50 AM
+  vedic_Rtu: Grishma (Summer)
+  vikram_samvat_date: 2083, Siddharthi
+29:
+  amanta_month: Jyeshta
+  dRika_Rtu: Grishma (Summer)
+  date:
+  - 29
+  - 5
+  - 2026
+  moonrise: May 29 5:33 PM
+  moonset: May 30 4:31 AM
+  nakshatra:
+  - Swati - May 28 08:08 AM – May 29 10:37 AM
+  - Vishaka - May 29 10:37 AM – May 30 01:20 PM
+  purnimanta_month: Jyeshta
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 5:45 AM
+  sunset: 7:03 PM
+  tithi:
+  - Sukla Paksha Trayodashi - May 28 07:57 AM – May 29 09:50 AM
+  - Sukla Paksha Chaturdashi - May 29 09:50 AM – May 30 11:58 AM
+  vedic_Rtu: Grishma (Summer)
+  vikram_samvat_date: 2083, Siddharthi
+30:
+  amanta_month: Jyeshta
+  dRika_Rtu: Grishma (Summer)
+  date:
+  - 30
+  - 5
+  - 2026
+  moonrise: May 30 6:28 PM
+  moonset: May 31 5:14 AM
+  nakshatra:
+  - Vishaka - May 29 10:37 AM – May 30 01:20 PM
+  - Anuradha - May 30 01:20 PM – May 31 04:11 PM
+  purnimanta_month: Jyeshta
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 5:45 AM
+  sunset: 7:03 PM
+  tithi:
+  - Sukla Paksha Chaturdashi - May 29 09:50 AM – May 30 11:58 AM
+  - Sukla Paksha Purnima - May 30 11:58 AM – May 31 02:14 PM
+  vedic_Rtu: Grishma (Summer)
+  vikram_samvat_date: 2083, Siddharthi
+31:
+  amanta_month: Jyeshta
+  dRika_Rtu: Grishma (Summer)
+  date:
+  - 31
+  - 5
+  - 2026
+  moonrise: May 31 7:22 PM
+  moonset: Jun 01 6:01 AM
+  nakshatra:
+  - Anuradha - May 30 01:20 PM – May 31 04:11 PM
+  - Jyeshta - May 31 04:11 PM – Jun 01 07:08 PM
+  purnimanta_month: Jyeshta
+  shakaka_samvat_date: 1948, Parabhava
+  sunrise: 5:45 AM
+  sunset: 7:04 PM
+  tithi:
+  - Sukla Paksha Purnima - May 30 11:58 AM – May 31 02:14 PM
+  - Krishna Paksha Pratipada - May 31 02:14 PM – Jun 01 04:37 PM
+  vedic_Rtu: Grishma (Summer)
+  vikram_samvat_date: 2083, Siddharthi
