@@ -52,13 +52,13 @@ def get_month_events(month_data: list[PanchangaInfo]) -> list[Event]:
         event.add("summary", summary)
         event.add("dtstart", date)
         event.add("dtend", date)
-        event.add("status", "CONFIRMED")
+        # event.add("status", "CONFIRMED")
         date_string = (
             f"{sh.prefix_zeros(date.day,2)}/{sh.prefix_zeros(date.month,2)}/{date.year}"
         )
         event.add(
             "description",
-            f'<a href="https://www.drikpanchang.com/panchang/day-panchang.html?date={date_string}">Drikpanchanaga for <strong>{date_string}</strong></a>',
+            f'<br/><a href="https://www.drikpanchang.com/panchang/day-panchang.html?date={date_string}">Drikpanchanaga for <strong>{date_string}</strong></a>',
         )
         events.append(event)
 
