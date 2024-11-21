@@ -1,35 +1,48 @@
 import os
+import time
 
-import pyquery as pq
 import requests
 import shubhlipi as sh
 from typer import Typer
 from rich.prompt import Confirm
 from rich.console import Console
-from time_info import DAYS_IN_MONTH
+from time_info import DAYS_IN_MONTH, MONTH_NAMES
 
 app = Typer()
 console = Console()
 
 
-URL = "https://www.drikpanchang.com/panchang/day-panchang.html?date={date}"
+URL = "https://www.prokerala.com/astrology/panchang/{date}.html"
+# date format: year-month_name_lower-day
 HTML_DATA_FOLDER = "raw_html"
 START_YEAR = 2024
 END_YEAR = 2026
 
 
-def get_url(date: list[int]):
-    """`date` -> `[day, month, year]`"""
-    str_date = f"{sh.prefix_zeros(date[0], 2)}/{sh.prefix_zeros(date[1], 2)}/{date[2]}"
-    return URL.format(date=str_date)
-
-
-def get_html(url: str, date: list[int]):
+def get_html(date: list[int]):
     try:
+        url = URL.format(
+            date=f"{date[2]}-{MONTH_NAMES[date[1] - 1].lower()}-{sh.prefix_zeros(date[0], 2)}"
+        )
+        console.print(
+            f"[bold white]Started {date[2]}-{date[1]}-{date[0]} : [/]",
+            end="",
+        )
         date_str = f"{date[2]}-{date[1]}-{date[0]}"
-        html = requests.get(url).text
+        req = requests.get(
+            url,
+            headers={
+                "User-Agent": "Mozila/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36"
+            },
+        )
+        if not req.ok:
+            raise Exception(
+                f"Error while downloading {date_str}, code: {req.status_code}"
+            )
+        html = req.text
         sh.write(f"{HTML_DATA_FOLDER}/{date_str.replace("/", '-')}.html", html)
-        console.print(f"[green]Downloaded [/] {date_str}")
+        console.print(f"[green]Downloaded [/]")
+        time.sleep(10)
     except Exception as e:
         console.print(f"[red bold]Error while downloading [/] {date_str}", e)
 
@@ -52,8 +65,7 @@ def main(del_folder: bool = False):
 
             def process_date(day: int):
                 date = [day, month, year]
-                url = get_url(date)
-                get_html(url, date)
+                get_html(date)
 
             for day in range(1, DAYS_IN_MONTH[month - 1] + 1):
                 process_date(day)
