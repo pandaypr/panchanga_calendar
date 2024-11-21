@@ -74,9 +74,11 @@ def main():
     console.log("[blue bold]Started Making Calendar...[/]")
 
     calendar = Calendar()
-    calendar.add("prodid", "-//Panchanga 2024-2026//mxm.dk//")  # Identifier
+    calendar.add(
+        "prodid", "-//Shubham_Anand_Gupta(TheSanskritChannel)//mxm.dk//"
+    )  # Identifier
     calendar.add("version", "2.0")
-    calendar.add("x-wr-calname", "panchanga_2024_2026")  # Name of the calendar
+    calendar.add("x-wr-calname", "Panchanga 2024-2026")  # Name of the calendar
     calendar.add("x-wr-timezone", "Asia/Kolkata")
 
     for root, dirs, files in os.walk("data"):
