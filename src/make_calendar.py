@@ -52,6 +52,7 @@ def get_month_events(month_data: list[PanchangaInfo]) -> list[Event]:
         event.add("summary", summary)
         event.add("dtstart", date)
         event.add("dtend", date)
+        event.add("transp", "TRANSPARENT")  # Mark event as "busy"
         # event.add("status", "CONFIRMED")
         date_string = (
             f"{sh.prefix_zeros(date.day,2)}/{sh.prefix_zeros(date.month,2)}/{date.year}"
