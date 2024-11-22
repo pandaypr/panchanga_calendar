@@ -22,3 +22,12 @@ It provides Corresponding panchanga dates for the gregorian/christian calendar.
 ```
 https://raw.githubusercontent.com/shubhattin/panchanga_calendar/refs/heads/main/src/out/panchanga.ics
 ```
+
+### If Events not showing on Google Calendar Mobile App even after importing
+
+- Goto Google Calendar Mobile App Settings
+- Under your email you will see all your calendars listed.
+- If you dont see `Panchanga 2024-2026` calendar then click on 'Show More' button.
+- Then click on `Panchanga 2024-2026`.
+- Then finally _check/activate_ the `Sync` Button option.
+- This is equivalent to ✅ in the web version.
