@@ -30,4 +30,4 @@ https://raw.githubusercontent.com/shubhattin/panchanga_calendar/refs/heads/main/
 - If you dont see `Panchanga 2024-2026` calendar then click on 'Show More' button.
 - Then click on `Panchanga 2024-2026`.
 - Then finally _check/activate_ the `Sync` Button option.
-- This is equivalent to ✅ in the web version.
+- Now the option should be visible alongside other calendars in the side menu. ✅ it to activate view.
