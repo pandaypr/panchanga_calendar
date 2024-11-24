@@ -59,7 +59,7 @@ def get_month_events(month_data: list[PanchangaInfo]) -> list[Event]:
         )
         event.add(
             "description",
-            f'<br/><a href="https://www.drikpanchang.com/panchang/day-panchang.html?date={date_string} target="_blank">Drikpanchanaga for <strong>{date_string}</strong></a>',
+            f'<a href="https://www.drikpanchang.com/panchang/day-panchang.html?date={date_string} target="_blank">Drikpanchanaga for <strong>{date_string}</strong></a>',
         )
         events.append(event)
 
