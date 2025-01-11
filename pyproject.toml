@@ -1,24 +1,20 @@
-[tool.poetry]
-name = "panchAga-calendar"
+[project]
+name = "anchAga-calendar"
 version = "0.1.0"
 description = "Panchanga Calendar"
-authors = ["Shubham Anand Gupta <81542648+shubhattin@users.noreply.github.com>"]
-package-mode = false
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "icalendar>=6.1.0",
+    "pydantic>=2.10.5",
+    "pyquery>=2.0.1",
+    "pyyaml>=6.0.2",
+    "rich>=13.9.4",
+    "typer>=0.15.1",
+]
 
-[tool.poetry.dependencies]
-python = ">=3.10,<3.13"
-icalendar = "^6.0.1"
-pyquery = "^2.0.1"
-rich = "^13.9.4"
-typer = "^0.13.1"
-pydantic = "^2.10.0"
-pyyaml = "^6.0.2"
-
-
-[tool.poetry.group.dev.dependencies]
-black = "^24.4.2"
-shubhlipi = "^0.0.0.181"
-
-[build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+[dependency-groups]
+dev = [
+    "black>=24.10.0",
+    "shubhlipi>=0.0.0.182",
+]
