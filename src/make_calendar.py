@@ -13,7 +13,7 @@ app = Typer()
 console = Console()
 
 
-def get_month_events(month_data: list[PanchangaInfo]) -> list[Event]:
+def get_month_events(month_data: list[PanchangaInfo], icloud=False) -> list[Event]:
     # Rules for Summary Syntax
     # Titihi (Time of Titihi), Nakshatra, Tithi(Both), Rtu
 
@@ -57,27 +57,26 @@ def get_month_events(month_data: list[PanchangaInfo]) -> list[Event]:
         date_string = (
             f"{sh.prefix_zeros(date.day,2)}/{sh.prefix_zeros(date.month,2)}/{date.year}"
         )
-        event.add(
-            "description",
-            f'<a href="https://www.drikpanchang.com/panchang/day-panchang.html?date={date_string} target="_blank">Drikpanchanaga for <strong>{date_string}</strong></a>',
-        )
+        if not icloud:
+            event.add(
+                "description",
+                f'<a href="https://www.drikpanchang.com/panchang/day-panchang.html?date={date_string} target="_blank">Drikpanchanaga for <strong>{date_string}</strong></a>',
+            )
+        elif icloud:
+            event.add(
+                "description",
+                f"Drikpanchanaga for {date_string} : https://www.drikpanchang.com/panchang/day-panchang.html?date={date_string}",
+            )
         events.append(event)
 
     return events
 
 
-@app.command()
-def main():
-    if not os.path.isdir("data"):
-        console.print("[red bold]Data folder not found[/]")
-        return
-
-    console.log("[blue bold]Started Making Calendar...[/]")
+def make_calendar(filename: str, icloud_version=False):
+    out_file = f"out/{filename}"
 
     calendar = Calendar()
-    calendar.add(
-        "prodid", "-//Shubham_Anand_Gupta(TheSanskritChannel)//mxm.dk//"
-    )  # Identifier
+    calendar.add("prodid", "-//TheSanskritChannel//mxm.dk//")  # Identifier
     calendar.add("version", "2.0")
     calendar.add("x-wr-calname", "Panchanga 2024-2026")  # Name of the calendar
     calendar.add("x-wr-timezone", "Asia/Kolkata")
@@ -88,17 +87,29 @@ def main():
             data_list: list[PanchangaInfo] = []
             for data_dict in data_dict_list:
                 data_list.append(PanchangaInfo(**data_dict_list[data_dict]))
-            events = get_month_events(data_list)
+            events = get_month_events(data_list, icloud_version)
             for event in events:
                 calendar.add_component(event)
 
-    with open("out/panchanga.ics", "wb") as file:
+    with open(out_file, "wb") as file:
         file.write(calendar.to_ical())
 
     # replace \r\n with \n
-    file = sh.read("out/panchanga.ics")
+    file = sh.read(out_file)
     file = file.replace("\r\n", "\n")
-    sh.write("out/panchanga.ics", file)
+    sh.write(out_file, file)
+
+
+@app.command()
+def main():
+    if not os.path.isdir("data"):
+        console.print("[red bold]Data folder not found[/]")
+        return
+
+    console.log("[blue bold]Started Making Calendar...[/]")
+
+    make_calendar("panchanga.ics", icloud_version=False)
+    make_calendar("panchanga_icloud.ics", icloud_version=True)
 
     console.log("[green bold]Finished Making Calendar...[/]")
 

@@ -19,11 +19,15 @@ It provides Corresponding panchanga dates for the gregorian/christian calendar.
 
 **Calendar File URL to Subscribe**
 
-Copy the link below to subscribe to calendar or if you use *iCalendar* click on the [direct link](https://raw.githubusercontent.com/shubhattin/panchanga_calendar/refs/heads/main/src/out/panchanga.ics)
+Copy the link below to subscribe to calendar.
 
 ```
 https://raw.githubusercontent.com/shubhattin/panchanga_calendar/refs/heads/main/src/out/panchanga.ics
 ```
+
+**iCloud Calendar**
+
+For Apple Calendar, you can directly click on this **[link](https://raw.githubusercontent.com/shubhattin/panchanga_calendar/refs/heads/main/src/out/panchanga_icloud.ics)**
 
 ### If Events not showing on Google Calendar Mobile App even after importing
 
