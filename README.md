@@ -9,7 +9,7 @@ It provides Corresponding panchanga dates for the gregorian/christian calendar.
 
 ## How to import it in Google Calendar
 
-- Open Google Calendar in chrome
+- Open [Google Calendar](https://calendar.google.com/calendar/) in Chrome
   - If you are on a mobile device then view the page in *Desktop Mode*.
 - Find the `+` button icon in the bottom left corner under heading 'Other Calendars'.
 - Click on it and select 'From URL'.
