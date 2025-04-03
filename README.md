@@ -37,6 +37,8 @@ https://raw.githubusercontent.com/shubhattin/panchanga_calendar/refs/heads/main/
 
 ## Common Issues
 
+> **⚠️ Avoid Importing the Calendar by downloading the `ics` file**
+
 ### If Events not showing on _Google Calendar_ Mobile App even after importing
 
 - Goto Google Calendar Mobile App Settings
