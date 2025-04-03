@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/shubhattin/panchanga_calendar/refs/heads/main/
 https://raw.githubusercontent.com/shubhattin/panchanga_calendar/refs/heads/main/src/out/panchanga_icloud.ics
 ```
 
-- Open the Calendar app on your iPhone or iPad.
+- Open the [Calendar](https://www.icloud.com/calendar) app on your iPhone or iPad.
 - Tap on the `Calendars` button at the bottom of the screen.
 - Tap on `Add Calendar` at the bottom of the list.
 - Select `Add Subscription Calendar`.
