@@ -8,7 +8,7 @@ To use it import it via url into Google or any other Calendar.
 **Calendar URL (Google)**
 
 ```
-https://raw.githubusercontent.com/shubhattin/panchanga_calendar/refs/heads/main/src/out/panchanga.ics
+https://raw.githubusercontent.com/shubhattin/panchanga_calendar/refs/heads/main/src/out/panchanga_google.ics
 ```
 
 - Open [Google Calendar](https://calendar.google.com/calendar/) in Chrome

@@ -72,7 +72,7 @@ def get_month_events(month_data: list[PanchangaInfo], icloud=False) -> list[Even
     return events
 
 
-def make_calendar(filename: str, icloud_version=False):
+def make_calendar(filename: str, icloud_compatible=False):
     out_file = f"out/{filename}"
 
     calendar = Calendar()
@@ -87,7 +87,7 @@ def make_calendar(filename: str, icloud_version=False):
             data_list: list[PanchangaInfo] = []
             for data_dict in data_dict_list:
                 data_list.append(PanchangaInfo(**data_dict_list[data_dict]))
-            events = get_month_events(data_list, icloud_version)
+            events = get_month_events(data_list, icloud_compatible)
             for event in events:
                 calendar.add_component(event)
 
@@ -108,8 +108,9 @@ def main():
 
     console.log("[blue bold]Started Making Calendar...[/]")
 
-    make_calendar("panchanga.ics", icloud_version=False)
-    make_calendar("panchanga_icloud.ics", icloud_version=True)
+    make_calendar("panchanga.ics", icloud_compatible=True)
+    make_calendar("panchanga_icloud.ics", icloud_compatible=True)
+    make_calendar("panchanga_google.ics", icloud_compatible=False)
 
     console.log("[green bold]Finished Making Calendar...[/]")
 

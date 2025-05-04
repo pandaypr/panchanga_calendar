@@ -1,5 +1,5 @@
 [project]
-name = "anchAga-calendar"
+name = "panchAga-calendar"
 version = "0.1.0"
 description = "Panchanga Calendar"
 readme = "README.md"
@@ -14,7 +14,4 @@ dependencies = [
 ]
 
 [dependency-groups]
-dev = [
-    "black>=24.10.0",
-    "shubhlipi>=0.0.0.182",
-]
+dev = ["black>=24.10.0", "shubhlipi>=0.0.0.182"]
